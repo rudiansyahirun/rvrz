@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-04T21:03:37.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="HrdxrnQp-TEmpUpvlaKU" version="20.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-04T21:05:21.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="gzFlGBLa_eGK3NZDDCC9" version="20.2.8" type="github" pages="2">
   <diagram id="IaMeeoK0-5SVTQDy6oDs" name="Page-1">
     <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -444,8 +444,8 @@
             <mxPoint x="650" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-R1Kyyo9eedhfQBGZTRu-18" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;mahasiswa : {thang, nim, nama, alamat, tanggal}&lt;/p&gt;&lt;p&gt;matakuliah : {kode, matkul, sks}&lt;/p&gt;&lt;p&gt;dosen : {idKelas}&lt;/p&gt;&lt;p&gt;mengikuti : {nim, idKelas}&lt;/p&gt;&lt;p&gt;mengajarkan : {idKelas, kode}&lt;/p&gt;&lt;p&gt;diajarkanOleh : {idKelas, nip}&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="315" width="280" height="210" as="geometry" />
+        <mxCell id="-R1Kyyo9eedhfQBGZTRu-18" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;mahasiswa : {thang, &lt;u&gt;nim&lt;/u&gt;, nama, alamat, tanggal}&lt;/p&gt;&lt;p&gt;matakuliah : {&lt;u&gt;kode&lt;/u&gt;, matkul, sks}&lt;/p&gt;&lt;p&gt;dosen : {&lt;u&gt;nip&lt;/u&gt;, nama}&lt;/p&gt;&lt;p&gt;kelas : {&lt;u&gt;idKelas&lt;/u&gt;}&lt;/p&gt;&lt;p&gt;mengikuti : {&lt;u&gt;nim&lt;/u&gt;, &lt;u&gt;idKelas&lt;/u&gt;}&lt;/p&gt;&lt;p&gt;mengajarkan : {&lt;u&gt;idKelas&lt;/u&gt;, &lt;u&gt;kode&lt;/u&gt;}&lt;/p&gt;&lt;p&gt;diajarkanOleh : {&lt;u&gt;idKelas&lt;/u&gt;, &lt;u&gt;nip&lt;/u&gt;}&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="315" width="280" height="235" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
